@@ -3,10 +3,15 @@ Trabalho dedicado a disciplina de Algoritmos Avançados.
 Desenvolva o algoritmo genético solicitado abaixo:
 
 Indivíduo: Vetor de 6 posições (genes) onde cada gene vale 0 ou 1.
+
 Cálculo da aptidão: por indivíduo. A aptidão é o somatório dos valores dos genes.
+
 Tamanho da população inicial: 20
+
 Tamanho da população após cruzamento: 30
+
 Tamanho da população após seleção: 20 – os mais aptos, sem critério de desempate
+
 Função objetivo: Ao menos um indivíduo da população obter aptidão máxima (6).
 
 
