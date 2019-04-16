@@ -1,5 +1,7 @@
 Trabalho dedicado a disciplina de Algoritmos Avançados.
+
 Desenvolva o algoritmo genético solicitado abaixo:
+
 
 Indivíduo: Vetor de 6 posições (genes) onde cada gene vale 0 ou 1.
 
