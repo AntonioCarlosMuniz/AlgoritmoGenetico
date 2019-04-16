@@ -40,6 +40,7 @@ namespace Assessment
         }
 
         //Regra de mutação
+        //A chance de mutação é de 0.05 (5%)
         private static void Mutacao(Individuo indiv)
         {
             for (int i = 0; i < indiv.ComprimentoPadraoGene; i++)
